@@ -1,4 +1,4 @@
-# Java Swing Snake Game - Complete Documentation
+# Java Swing Snake Game
 
 ## 1. INTRODUCTION
 
