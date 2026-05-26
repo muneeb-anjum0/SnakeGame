@@ -1,0 +1,1 @@
+normal:1000|endless:580

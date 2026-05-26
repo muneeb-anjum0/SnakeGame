@@ -1,0 +1,2 @@
+javac -d out src\*.java - To Compile game files
+java -cp out Main - To run game files
